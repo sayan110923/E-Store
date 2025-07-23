@@ -9,8 +9,8 @@ Checkout with Stripe Integration
 View Order History
 Responsive Design
 # Tech Stack
-Frontend: React, Tailwind CSS
-Backend: Node.js, Express
-Database: MongoDB
-Payment Gateway: Stripe
-Other Libraries: moment.js, react-toastify
+* Frontend: React, Tailwind CSS
+* Backend: Node.js, Express
+* Database: MongoDB
+* Payment Gateway: Stripe
+* Other Libraries: moment.js, react-toastify
